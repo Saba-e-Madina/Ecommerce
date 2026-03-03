@@ -1,0 +1,25 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #fff;
+    color: #000;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Banner image styling */
+  .home-banner {
+    width: 100%;
+    max-height: 1000px;
+    object-fit: cover;
+  }
+  
+  /* Footer styling */
+  .home-footer {
+    margin-top: auto;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 14px;
+  }
